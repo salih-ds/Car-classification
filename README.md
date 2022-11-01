@@ -3,6 +3,11 @@
 
 Соревнование kaggle (Rus_Salih_b) Top-25%: https://www.kaggle.com/competitions/sf-dl-car-classification
 
+## Требования
+Python 3.7.6
+
+Зависимости: requirements.txt
+
 ## Данные и описание полей
 **Соревновательные:**
 https://www.kaggle.com/competitions/sf-dl-car-classification/data
@@ -62,7 +67,7 @@ https://drive.google.com/file/d/1BGUHZpVscoJ_w_LtXFlz5QkedFwe_YNs/view?usp=shari
   </tr>
   <tr>
     <td>MobileNetV3Large</td>
-    <td>Самая легковесная, при этом высокое качетсво на ImageNet</td>
+    <td>Самая легковесная, при этом высокое качество на ImageNet</td>
     <td>0.6891</td>
     <td>Не использовать</td>
   </tr>
